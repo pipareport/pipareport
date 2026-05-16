@@ -1,0 +1,6 @@
+config.env
+ultimo_sync.json
+dist/
+build/
+__pycache__/
+*.spec
